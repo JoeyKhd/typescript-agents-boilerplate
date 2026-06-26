@@ -1,16 +1,6 @@
 {
   "name": "typescript-agents-boilerplate",
   "version": "1.0.0",
-  "main": "./dist/main.js",
-  "module": "./dist/main.mjs",
-  "types": "./dist/main.d.ts",
-  "exports": {
-    ".": {
-      "import": "./dist/main.mjs",
-      "require": "./dist/main.js"
-    },
-    "./package.json": "./package.json"
-  },
   "scripts": {
     "dev": "tsx --watch src/index.ts",
     "lint": "oxlint",
@@ -22,12 +12,12 @@
   },
   "packageManager": "pnpm@10.33.0",
   "dependencies": {
-    "loglayer": "^9.3.0"
+    "loglayer": "latest"
   },
   "devDependencies": {
-    "oxlint": "^1.71.0",
-    "tsdown": "^0.22.3",
-    "tsx": "^4.22.4",
+    "oxlint": "latest",
+    "tsdown": "latest",
+    "tsx": "latest",
     "typescript": "7.0.1-rc"
   }
 }
