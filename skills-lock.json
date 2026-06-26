@@ -25,6 +25,12 @@
       "skillPath": "skills/frontend-design/SKILL.md",
       "computedHash": "4eabc66183767153e404b39d1b839b1c37f2d82d86f0a0d7e880a579d8d62336"
     },
+    "gitmoji-commits": {
+      "source": "sthbryan/gitmoji-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "6a0fed6bfe9858fa02ff088c81e7421cb57edde241dd7c5c1a8ca8f85b08163a"
+    },
     "grill-me": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -37,6 +43,18 @@
       "skillPath": "skills/engineering/grill-with-docs/SKILL.md",
       "computedHash": "e7ef25bbee50cda2eb7b3a8ef541db0a0396dad7d369f7d14fb610671dd1864b"
     },
+    "oxlint": {
+      "source": "delexw/claude-code-misc",
+      "sourceType": "github",
+      "skillPath": "skills/oxlint/SKILL.md",
+      "computedHash": "44808aefb361ada1250783eb31ccb20aa020e2c61466e52f53efb10ce20d793b"
+    },
+    "pnpm": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/pnpm/SKILL.md",
+      "computedHash": "2ec08c851c6f901d4ed72c21b826416ed074a487db65662b36249418afd728bf"
+    },
     "ponytail": {
       "source": "dietrichgebert/ponytail",
       "sourceType": "github",
@@ -48,6 +66,24 @@
       "sourceType": "github",
       "skillPath": "skills/systematic-debugging/SKILL.md",
       "computedHash": "792a368e074981d7e3138edb439e138489b2ac247cd1e5739fab52af680fb17b"
+    },
+    "tsdoc-comments": {
+      "source": "marius-townhouse/effective-typescript-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tsdoc-comments/SKILL.md",
+      "computedHash": "f68df8fcde59d498eb543ec88467ebb6f81b2ed38a920cc3723ae5e293baaeb4"
+    },
+    "tsdown": {
+      "source": "antfu/skills",
+      "sourceType": "github",
+      "skillPath": "skills/tsdown/SKILL.md",
+      "computedHash": "2183b9019058744215ab8b1261e34833653b5864da159bc022e3b9ad2f706aa5"
+    },
+    "typescript-best-practices": {
+      "source": "0xbigboss/claude-code",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/typescript-best-practices/SKILL.md",
+      "computedHash": "9866bb48d92a951feafb77f6f48ea39b42c6c1e901788c916d4aad40f60db008"
     },
     "using-superpowers": {
       "source": "obra/superpowers",
